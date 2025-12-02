@@ -1,4 +1,4 @@
-![status](https://api.statusbadges.me/badge/status/539111144653324288?simple=true)
+![status](https://api.statusbadges.me/badge/status/539111144653324288)
 ![playing](https://api.statusbadges.me/badge/playing/539111144653324288)
 ![intellij](https://api.statusbadges.me/badge/intellij/539111144653324288)
 [![spotify](https://api.statusbadges.me/badge/spotify/539111144653324288)](https://api.statusbadges.me/openspotify/539111144653324288)
