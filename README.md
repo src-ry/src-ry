@@ -11,7 +11,4 @@ im essentially just an internet user (:trollface:) who sometimes types things in
   
 ***
 
-**i am on social media** which is surprising in the big 2025, i know! this is actually just me indirectly asking you to check me out there! also, follow my github pleaseeee!! :octocat:🙏 (see, even the octocat wants you to follow me!) 
-
-[![bluesky](https://img.shields.io/badge/willow.is.eepy.now-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/willow.is.eepy.now)
-[![last.fm](https://img.shields.io/badge/hallytall-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/hallytall)
+**i am on social media** which is surprising in the big 2025, i know! this is actually just me indirectly asking you to check me out there! also, follow my github pleaseeee!! :octocat:🙏 (see, even the octocat wants you to follow me!)
